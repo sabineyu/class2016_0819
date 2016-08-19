@@ -10,6 +10,7 @@ A sample repo that will teach us git commands
 List of weekend
 ================
 * Go for a hike
+* this is remote version
 
 
 * What are Version Control Systems
